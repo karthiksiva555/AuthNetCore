@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthNetCoreCookie", "AuthNe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthNetCoreApiCookie", "AuthNetCoreApiCookie\AuthNetCoreApiCookie.csproj", "{C8060776-6A83-4448-8E76-68F94641FD28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityResourceApi", "IdentityResourceApi\IdentityResourceApi.csproj", "{A6C524DE-F8A7-4D97-859F-9E3199611839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourcePasswordFlow", "ResourcePasswordFlow\ResourcePasswordFlow.csproj", "{C57FEA11-0833-4F22-BDE8-CE2DCC70DCF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{C8060776-6A83-4448-8E76-68F94641FD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8060776-6A83-4448-8E76-68F94641FD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8060776-6A83-4448-8E76-68F94641FD28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C524DE-F8A7-4D97-859F-9E3199611839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C524DE-F8A7-4D97-859F-9E3199611839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C524DE-F8A7-4D97-859F-9E3199611839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C524DE-F8A7-4D97-859F-9E3199611839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57FEA11-0833-4F22-BDE8-CE2DCC70DCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57FEA11-0833-4F22-BDE8-CE2DCC70DCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57FEA11-0833-4F22-BDE8-CE2DCC70DCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57FEA11-0833-4F22-BDE8-CE2DCC70DCF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
